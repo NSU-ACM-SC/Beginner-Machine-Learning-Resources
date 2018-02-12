@@ -65,6 +65,12 @@ Only IDE I can suggest in a heart beat is [Pycharm](https://www.jetbrains.com/py
 
 And this list is not the end of the world, you may find sources that are better!
 
+
+#### Linear Algebra and Stat
+Best and the easiest courses? Follow Khan Academy -
+- [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+- [Stat](https://www.khanacademy.org/math/statistics-probability)
+
 #### Books, Lierature(Journals, Papers)
 Some prefer books for then online courses and the problem with books is that different books take different approaches. Thanks to our friends at **NSU ACM SC R&D**, they've created a nice repository of books in digital format - [link here](https://goo.gl/4sBveV). Books ain't cheap, and you won't find every book in the local market as well.
 
