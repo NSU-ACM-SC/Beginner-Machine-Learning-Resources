@@ -8,7 +8,7 @@
 
 - **Statistics** : Again NSU offers `MAT361` for this purpose, if you're yet to do the course or if you think that you need easier or more elaborate resources you can follow the resource links.
 
-- **Read a lot of books and the willingness to try them out, implement them writing code** : This is important. You have to keep in mind that Machine Learning as a field is vast and you'll need to study a lot. So the key is to read, write code, discuss among your friends. Discussing is the best way to get things done because you will always meet someone who has some better idea or has a better concept or knows the topic better.
+- **Reading a lot of books and the willingness to try them out, implement them writing code** : This is important. You have to keep in mind that Machine Learning as a field is vast and you'll need to study a lot. So the key is to read, write code, discuss among your friends. Discussing is the best way to get things done because you will always meet someone who has some better idea or has a better concept or knows the topic better.
 
 - **Follow people on twitter**: Follow the experts of the field online. Ironically hardly any of them are on facebook so your best bet to find them is twitter. A list of people to follow is given at the end. Also read medium publication **Towards Data Science**. I haven't found any other publication that much organized on this topic.
 
@@ -29,7 +29,7 @@ These are probably the best resources to begin with, follow whichever you like, 
 
 - [Automate the boring stuff with python (for people who have never touched python)](https://automatetheboringstuff.com)
 
-- [সহজ ভাষায় পাইথন - ৩](https://www.rokomari.com/book/127980/সহজ-ভাষায়-পাইথন---৩?ref=bfl3_t2_p8)
+- [সহজ ভাষায় পাইথন - ৩](https://www.rokomari.com/book/127980/সহজ-ভাষায়-পাইথন---৩?ref=bfl3_t2_p8)
 
 #### Python tools related courses
 - [edx Python for Data Science](https://www.edx.org/course/python-for-data-science)
