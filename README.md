@@ -36,12 +36,12 @@ These are probably the best resources to begin with, follow whichever you like, 
 - [Using Python for Research by Harvard edx](https://www.edx.org/course/using-python-research-harvardx-ph526x-0)
 - [Sentdex Introduction to Matplotlib for data Visualization](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF)
 
-#### If you want to use an IDE
+##### If you want to use an IDE
 Only IDE I can suggest in a heart beat is [Pycharm](https://www.jetbrains.com/pycharm/). The community edition is free and you get the Professional Edition for free if you register with you NSU Email in the [Jetbrains Student Program](https://www.jetbrains.com/student/).  
 
-### Not and IDE ? Text Editor Suggestions?
+#### Not and IDE ? Text Editor Suggestions?
 - [Atom](https://atom.io)
-- [Visual Studio Code](https://code.visualstudio.com/) 
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Frameworks?
 - One rule of thumb is, when you're beginning to learn theoretical topics, it's best not to touch frameworks, use only what is necessary and try writing things from scratch, this way you get to know more and also the problems you face and solve will deepen your understanding on the topic.
