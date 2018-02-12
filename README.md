@@ -18,6 +18,8 @@
 
 - **If things get difficult?**: Things will get difficult at times. So, don't lose hope. Be on your path and things will get just fine 😄
 
+- **Practice on Kaggle**: You should practice there. The best place to practice actually but first learn some basics. Kaggle is to machine learning what UVA is to Competitive Programming.
+
 - **If you're Windows**: Some python packages are difficult to install on Windows. No that doesn't mean you have to get Linux or macOS to do things (well things are easier there!). Instead of using Python from their official site, you can download and install [Anaconda](https://www.anaconda.com/download/), a python distribution that comes with all the packages you need to get started with machine learning/ data science/ scientific computing.
 
 ### Python Programming Resources
