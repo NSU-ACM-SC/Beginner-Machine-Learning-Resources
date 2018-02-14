@@ -39,9 +39,9 @@ These are probably the best resources to begin with, follow whichever you like, 
 - [Sentdex Introduction to Matplotlib for data Visualization](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF)
 
 ##### If you want to use an IDE
-Only IDE I can suggest in a heart beat is [Pycharm](https://www.jetbrains.com/pycharm/). The community edition is free and you get the Professional Edition for free if you register with you NSU Email in the [Jetbrains Student Program](https://www.jetbrains.com/student/).  
+Only IDE I can suggest in a heart beat is [Pycharm](https://www.jetbrains.com/pycharm/). The community edition is free and you get the Professional Edition for free if you register with your NSU Email in the [Jetbrains Student Program](https://www.jetbrains.com/student/).  
 
-#### Not and IDE ? Text Editor Suggestions?
+#### Not an IDE? Text Editor Suggestions?
 - [Atom](https://atom.io)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
