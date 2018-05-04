@@ -31,7 +31,7 @@ These are probably the best resources to begin with, follow whichever you like, 
 
 - [Automate the boring stuff with python (for people who have never touched python)](https://automatetheboringstuff.com)
 
-- [সহজ ভাষায় পাইথন - ৩](https://www.rokomari.com/book/127980/সহজ-ভাষায়-পাইথন---৩?ref=bfl3_t2_p8)
+- [সহজ ভাষায় পাইথন - ৩](https://legacy.gitbook.com/book/maateen/python/details)
 
 #### Python tools related courses
 - [edx Python for Data Science](https://www.edx.org/course/python-for-data-science)
