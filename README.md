@@ -104,7 +104,7 @@ Very few people have the guts to go in depth and discuss things in Bangla, and [
 #### People and publications to follow on twitter
 - [Ian Goodfellow](https://twitter.com/goodfellow_ian)
 - [Josh Gordon](https://twitter.com/random_forests)
-- [François CholletVerified account](https://twitter.com/fchollet)
+- [François Chollet](https://twitter.com/fchollet)
 
 #### Other Things to follow
 - Get active on Quora. Ask questions, search and try to answer.
