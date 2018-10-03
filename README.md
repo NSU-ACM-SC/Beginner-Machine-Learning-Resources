@@ -95,6 +95,12 @@ Very few people have the guts to go in depth and discuss things in Bangla, and [
 - Things may seem overwhelming at times, so do this, drink more water, because human brain works better when it's swimming in a bath of fluid, take breaks, stop punishing yourself, discuss things with people, use groups, search in Google, annoy people who can help you and etc.
 - Avoid wannabe people. Machine Learning has gained greater hype than the [Justice League Trailer](https://youtu.be/r9-DM9uBtVI). So obvious there will be no shortage of people online who know very little and will pretend they know a lot. So, avoid those people.  
 
+#### Necessary Tools and keys
+
+- Anaconda installation guide : https://github.com/NeloyNSU/Install-Anaconda-on-Windows-10/blob/master/README.md
+- jupyter notebook guide : https://github.com/NeloyNSU/Jupyter-Notebook-Guide-for-Windows-10/blob/master/README.md
+
+
 #### People and publications to follow on twitter
 - [Ian Goodfellow](https://twitter.com/goodfellow_ian)
 - [Josh Gordon](https://twitter.com/random_forests)
